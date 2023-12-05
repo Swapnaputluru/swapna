@@ -1,1 +1,2 @@
-pint("HI")
+# With correct syntax
+print("HI")
